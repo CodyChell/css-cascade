@@ -3,9 +3,18 @@ body {
    color: #A6C6DF;
 }
 
+
+ 
+#p1 {
+    color: white;
+}
+
+
+#p2 {
+    background-color: white;
+    
+}
+
 main p{
     background-color: inherit;
 }
-    
-
-
